@@ -1,0 +1,29 @@
+body{
+    background-color: blueviolet;
+}
+
+.imgBox{
+    background-image:url('pic.png') ;
+    position: relative;
+    height: 140px;
+    width: 140px;
+    margin-top: 6px;
+    margin-left: 6px;
+    cursor: pointer;
+
+}
+
+
+.whiteBox{
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    margin-top: 6px;
+    margin-left: 6px;
+}
+
+
+
+
+
